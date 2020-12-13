@@ -1,14 +1,2 @@
 # DeepLearning_TF2
-implement Deep learning algorithms using tensorflow 2
-
-ANN
-
-CNN
-
-RNN,LSTM
-
-NLP
-
-GAN
-
-Recommender systems
+## Please visit [My Blog](https://alighandij.github.io/) for further information about my Projects lists and my online publications.
